@@ -8,10 +8,10 @@ This program takes user input such as colour, shape and text and outputs a logo 
 Website link: https://github.com/AyhaamB/svg-logo-maker
 
 ## Photo of sample logo
-![My Image](./images/Sample%20Logo%20-%20Logo%20Generator.png)
+![My Image](./images/Sample%20SVG%20Logo.png)
 
 ## How to video
-https://drive.google.com/file/d/12UOIkY6AA9_NYJFBo86HznGunb4zyRGg/view?usp=drive_link
+https://drive.google.com/file/d/13c_kPVT_m_MKhXjSs3clSTzir1i4S09p/view?usp=sharing
 
 ## Help
 Any advice for common problems or issues, email me at ayh132@gmail.com
